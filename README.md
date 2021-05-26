@@ -20,12 +20,12 @@ You need a valid and licensed copy of WHMCS. If required, you can contact the WH
 
 ### Tested WHMCS Versions
 
-* [X] 7.1 
+* [X] 7.1
 * [X] 7.2
 * [X] 7.4
 * [X] 7.6
-* [ ] 7.10 (working, but needs additional testing) 
-* [ ] 8.X (may working, but needs additional testing) 
+* [ ] 7.10 (working, but needs additional testing)
+* [ ] 8.X (may working, but needs additional testing)
 
 ## Usage
 
@@ -49,6 +49,8 @@ WHMCS installation itself may take a while. Use `mysql` as Database Host in the 
 
 If you need a seperate License for your WHMCS installation, you contact the WHMCS Support for a development license.
 
-## Contributions
+## Support
+
+## Contributing
 
 Please use [Github](https://github.com/darthsoup/docker-whmcs) for reporting bugs, and making comments or suggestions.
