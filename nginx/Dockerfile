@@ -1,6 +1,7 @@
 FROM nginx:alpine
 
 COPY nginx.conf /etc/nginx/
+COPY sites/default.conf /etc/nginx/sites-available/default.conf
 
 RUN apk update \
     && apk upgrade \
